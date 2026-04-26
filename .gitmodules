@@ -1,0 +1,3 @@
+[submodule "docs/journal"]
+	path = docs/journal
+	url = https://github.com/quanttide/quanttide-journal-of-cognitive-engineering
