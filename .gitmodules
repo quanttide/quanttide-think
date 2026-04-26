@@ -1,3 +1,9 @@
 [submodule "docs/specification"]
 	path = docs/specification
 	url = https://github.com/quanttide/quanttide-specification-of-cognitive-engineering.git
+[submodule "apps/qtcloud-think"]
+	path = apps/qtcloud-think
+	url = https://github.com/quanttide/qtcloud-think.git
+[submodule "docs/journal"]
+	path = docs/journal
+	url = https://github.com/quanttide/quanttide-journal-of-cognitive-engineering.git
