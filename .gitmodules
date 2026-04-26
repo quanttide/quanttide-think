@@ -10,3 +10,6 @@
 [submodule "docs/profile"]
 	path = docs/profile
 	url = https://github.com/quanttide/quanttide-profile-of-cognitive-engineering.git
+[submodule "docs/archive"]
+	path = docs/archive
+	url = https://github.com/quanttide/quanttide-archive-of-cognitive-engineering.git
