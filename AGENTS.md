@@ -18,6 +18,6 @@
 | `docs/gallery` | `quanttide/quanttide-gallery-of-cognitive-engineering` |
 | `docs/handbook` | `quanttide/quanttide-handbook-of-cognitive-engineering` |
 | `docs/journal` | `quanttide/quanttide-journal-of-cognitive-engineering` |
-| `docs/memo` | `quanttide/quanttide-memo-of-cognitive-engineering` |
+| `docs/context` | `quanttide/quanttide-context-of-cognitive-engineering` |
 | `docs/specification` | `quanttide/quanttide-specification-of-cognitive-engineering` |
 | `examples/default` | `quanttide/quanttide-laboratory-of-cognitive-engineering` |
