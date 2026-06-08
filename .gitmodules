@@ -4,9 +4,6 @@
 [submodule "apps/qtcloud-think"]
 	path = apps/qtcloud-think
 	url = https://github.com/quanttide/qtcloud-think.git
-[submodule "docs/journal"]
-	path = docs/journal
-	url = https://github.com/quanttide/quanttide-journal-of-cognitive-engineering.git
 [submodule "examples/default"]
 	path = examples/default
 	url = https://github.com/quanttide/quanttide-laboratory-of-cognitive-engineering.git
@@ -22,6 +19,9 @@
 [submodule "data/profile"]
 	path = data/profile
 	url = https://github.com/quanttide/quanttide-profile-of-cognitive-engineering.git
-[submodule "docs/context"]
-	path = docs/context
+[submodule "data/context"]
+	path = data/context
 	url = https://github.com/quanttide/quanttide-context-of-cognitive-engineering.git
+[submodule "data/journal"]
+	path = data/journal
+	url = https://github.com/quanttide/quanttide-journal-of-cognitive-engineering.git
