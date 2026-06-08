@@ -15,8 +15,7 @@ qtcloud-devops release <COMMAND>
 
 | 命令 | 作用 |
 |------|------|
-| `stage` | 将版本标记为 Staged（预发布）状态 |
-| `publish` | 将 Staged 版本正式发布到指定仓库源 |
+| `publish` | 将版本正式发布到指定仓库源 |
 | `retire` | 将已发布版本标记为退役 |
 | `status` | 查看当前发布状态 |
 
@@ -32,17 +31,9 @@ qtcloud-devops release status
 
 输出示例：`当前无发布记录` 表示当前无活跃发布。
 
-### release stage — 标记版本
-
-将版本标记为 Staged 状态（语义化版本号，如 `0.1.0`、`1.2.3`）：
-
-```bash
-qtcloud-devops release stage --version <VERSION>
-```
-
 ### release publish — 正式发布
 
-将版本正式发布上线（stage 不是前置条件，可独立使用）：
+将版本正式发布上线：
 
 ```bash
 qtcloud-devops release publish --version <VERSION> [OPTIONS]
@@ -78,19 +69,7 @@ qtcloud-devops release publish --version 0.1.0 --registry pub-dev
 qtcloud-devops release retire --version <VERSION>
 ```
 
-## 使用示例
-
-```bash
-# 直接发布（不 stage）
-qtcloud-devops release publish --version 0.1.0 --registry crates -y
-
-# 先 stage 再发布
-qtcloud-devops release stage --version 0.1.0
-qtcloud-devops release publish --version 0.1.0 --registry crates
-```
-
 ## 注意事项
 
-- **版本号一致性**：同一版本号在 stage、publish、retire 之间保持语义一致
 - **多次发布**：需要发布到多个 registry 时，分别执行多次 `publish` 命令
 - **确认提示**：默认有确认提示，生产环境建议先不加 `-y` 确认信息无误，确认后再加 `-y` 执行
