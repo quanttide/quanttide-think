@@ -14,6 +14,8 @@
 |------|------|
 | `apps/qtcloud-think` | `quanttide/qtcloud-think` |
 | `docs/archive` | `quanttide/quanttide-archive-of-cognitive-engineering` |
+| `docs/gallery` | `quanttide/quanttide-gallery-of-cognitive-engineering` |
+| `docs/handbook` | `quanttide/quanttide-handbook-of-cognitive-engineering` |
 | `docs/journal` | `quanttide/quanttide-journal-of-cognitive-engineering` |
 | `docs/memo` | `quanttide/quanttide-memo-of-cognitive-engineering` |
 | `docs/profile` | `quanttide/quanttide-profile-of-cognitive-engineering` |
