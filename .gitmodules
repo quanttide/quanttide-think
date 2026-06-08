@@ -19,3 +19,9 @@
 [submodule "docs/memo"]
 	path = docs/memo
 	url = https://github.com/quanttide/quanttide-memo-of-cognitive-engineering.git
+[submodule "docs/gallery"]
+	path = docs/gallery
+	url = https://github.com/quanttide/quanttide-gallery-of-cognitive-engineering.git
+[submodule "docs/handbook"]
+	path = docs/handbook
+	url = https://github.com/quanttide/quanttide-handbook-of-cognitive-engineering.git
