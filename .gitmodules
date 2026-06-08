@@ -16,3 +16,6 @@
 [submodule "examples/default"]
 	path = examples/default
 	url = https://github.com/quanttide/quanttide-laboratory-of-cognitive-engineering.git
+[submodule "docs/memo"]
+	path = docs/memo
+	url = https://github.com/quanttide/quanttide-memo-of-cognitive-engineering.git
