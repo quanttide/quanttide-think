@@ -13,11 +13,11 @@
 | 路径 | 仓库 |
 |------|------|
 | `apps/qtcloud-think` | `quanttide/qtcloud-think` |
-| `docs/archive` | `quanttide/quanttide-archive-of-cognitive-engineering` |
+| `data/archive` | `quanttide/quanttide-archive-of-cognitive-engineering` |
+| `data/profile` | `quanttide/quanttide-profile-of-cognitive-engineering` |
 | `docs/gallery` | `quanttide/quanttide-gallery-of-cognitive-engineering` |
 | `docs/handbook` | `quanttide/quanttide-handbook-of-cognitive-engineering` |
 | `docs/journal` | `quanttide/quanttide-journal-of-cognitive-engineering` |
 | `docs/memo` | `quanttide/quanttide-memo-of-cognitive-engineering` |
-| `docs/profile` | `quanttide/quanttide-profile-of-cognitive-engineering` |
 | `docs/specification` | `quanttide/quanttide-specification-of-cognitive-engineering` |
 | `examples/default` | `quanttide/quanttide-laboratory-of-cognitive-engineering` |
