@@ -15,6 +15,7 @@
 | `apps/qtcloud-think` | `quanttide/qtcloud-think` | 应用层（思考云） |
 | `data/archive` | `quanttide/quanttide-archive-of-cognitive-engineering` | 陈述性记忆 · **终点** |
 | `data/context` | `quanttide/quanttide-context-of-cognitive-engineering` | 陈述性记忆 · **起点** |
+| `data/insight` | `quanttide/quanttide-insight-of-cognitive-engineering` | 陈述性记忆 |
 | `data/journal` | `quanttide/quanttide-journal-of-cognitive-engineering` | 陈述性记忆 |
 | `data/profile` | `quanttide/quanttide-profile-of-cognitive-engineering` | 陈述性记忆 |
 | `docs/gallery` | `quanttide/quanttide-gallery-of-cognitive-engineering` | 程序性记忆 |
