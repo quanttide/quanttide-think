@@ -1,3 +1,6 @@
+[submodule "docs/essay"]
+	path = docs/essay
+	url = https://github.com/quanttide/quanttide-essay-of-cognitive-engineering.git
 [submodule "docs/specification"]
 	path = docs/specification
 	url = https://github.com/quanttide/quanttide-specification-of-cognitive-engineering.git

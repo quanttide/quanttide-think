@@ -18,6 +18,7 @@
 | `data/insight` | `quanttide/quanttide-insight-of-cognitive-engineering` | 陈述性记忆 |
 | `data/journal` | `quanttide/quanttide-journal-of-cognitive-engineering` | 陈述性记忆 |
 | `data/profile` | `quanttide/quanttide-profile-of-cognitive-engineering` | 陈述性记忆 |
+| `docs/essay` | `quanttide/quanttide-essay-of-cognitive-engineering` | 程序性记忆 |
 | `docs/gallery` | `quanttide/quanttide-gallery-of-cognitive-engineering` | 程序性记忆 |
 | `docs/handbook` | `quanttide/quanttide-handbook-of-cognitive-engineering` | 程序性记忆 |
 | `docs/specification` | `quanttide/quanttide-specification-of-cognitive-engineering` | 程序性记忆 |
