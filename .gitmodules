@@ -34,3 +34,6 @@
 [submodule "data/report"]
 	path = data/report
 	url = https://github.com/quanttide/quanttide-report-of-cognitive-engineering.git
+[submodule "data/intention"]
+	path = data/intention
+	url = https://github.com/quanttide/quanttide-intention-of-cognitive-engineering.git
