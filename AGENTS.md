@@ -41,3 +41,19 @@
 - `data/` 存放事实性知识 —— 发生了什么、当前状态是什么。其中 **context 是知识生命周期的起点**（工作语境），**archive 是终点**（历史归档）。
 - `docs/` 存放操作性知识 —— 怎么做、标准是什么、成果展示。
 - 起点（context）与终点（archive）之间，所有子模块构成一个九宫格分类体系。
+
+## 数据流
+
+```
+原始日志（examples/default/data/）
+    ↓ 提炼
+docs/gallery ← 事实源
+    ↓ 引用
+examples/default/ ← 工具消费方
+```
+
+- `docs/gallery` 是唯一的**事实源**，lab（`examples/default/`）是工具消费方
+- lab 中的 `project-11` 直接读取 `docs/gallery/` 的 YAML 文件
+- lab 生成的推理产物（`reports/`、`schemas.yaml`）不写回 gallery
+- gallery 的数据只能通过人工审核后修改，不通过工具自动写入
+- 修改子模块内容时，**先提交推送子模块本身，再回到主仓库提交推送子模块指针变更**
