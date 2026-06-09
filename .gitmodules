@@ -40,3 +40,6 @@
 [submodule "data/roadmap"]
 	path = data/roadmap
 	url = https://github.com/quanttide/quanttide-roadmap-of-cognitive-engineering.git
+[submodule "packages/quanttide-think-toolkit"]
+	path = packages/quanttide-think-toolkit
+	url = https://github.com/quanttide/quanttide-think-toolkit.git
