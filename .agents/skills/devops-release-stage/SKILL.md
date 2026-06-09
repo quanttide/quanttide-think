@@ -27,9 +27,7 @@ qtcloud-devops release stage --version <VERSION>
 qtcloud-devops release stage --version v0.1.0-alpha.8
 ```
 
-## 注意事项
+## 注意
 
-- **版本号不可逆**：crates.io 不允许多次发布同一版本。发错了只能发新版本，不要删 tag 重发。
-- **CI 触发**：`stage` 创建 GitHub Release 后，`rust-publish` 工作流自动发布到 crates.io。如果 CI 未触发，检查 workflow 的 tag 匹配规则。
-- **spec 先行**：新增字段或类型时，先定稿 spec 文档（`docs/specification/`），再实现 toolkit。
-- **CHANGELOG**：必须在执行 `stage` 前更新，否则命令会报错退出。
+- 版本号不可逆，crates.io 不允许多次发布同一版本。
+- CHANGELOG 必须在 `stage` 前更新，否则命令报错退出。
