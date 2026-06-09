@@ -13,6 +13,7 @@
 | 路径 | 仓库 | 认知角色 |
 |------|------|---------|
 | `apps/qtcloud-think` | `quanttide/qtcloud-think` | 应用层（思考云） |
+| `packages/quanttide-think-toolkit` | `quanttide/quanttide-think-toolkit` | 应用层（工具箱） |
 | `data/archive` | `quanttide/quanttide-archive-of-cognitive-engineering` | 陈述性记忆 · **终点** |
 | `data/context` | `quanttide/quanttide-context-of-cognitive-engineering` | 陈述性记忆 · **起点** |
 | `data/insight` | `quanttide/quanttide-insight-of-cognitive-engineering` | 陈述性记忆 |
