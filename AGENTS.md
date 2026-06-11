@@ -50,13 +50,20 @@
 ## 数据流
 
 ```
+外部认知工程生态（GitHub / 论文 / 书籍）
+    ↓ 收集
+data/library ← 图书馆（外部知识索引）
+
 原始日志（examples/default/data/）
     ↓ 提炼
 docs/gallery ← 事实源
     ↓ 引用
-examples/default/ ← 工具消费方
+examples/default/ ← 实验室（实验与产出）
 ```
 
+- **图书馆（library）** 是外部输入，收集理论框架和开源产品，回答「别人做了什么」
+- **实验室（lab）** 是内部输出，用 gallery 事实源和内部数据模型进行认知工程实验，回答「我们自己能做出什么」
+- 两者不直接耦合，但互补：图书馆提供理论参考和产品对标，实验室验证哪些理论可以工程化
 - `docs/gallery` 是唯一的**事实源**，lab（`examples/default/`）是工具消费方
 - lab 中的 `project-11` 直接读取 `docs/gallery/` 的 YAML 文件
 - lab 生成的推理产物（`reports/`、`schemas.yaml`）不写回 gallery
