@@ -46,3 +46,6 @@
 [submodule "packages/quanttide-agent-toolkit"]
 	path = packages/quanttide-agent-toolkit
 	url = https://github.com/quanttide/quanttide-agent-toolkit.git
+[submodule "data/library"]
+	path = data/library
+	url = https://github.com/quanttide/quanttide-library-of-cognitive-engineering.git
