@@ -49,3 +49,6 @@
 [submodule "data/library"]
 	path = data/library
 	url = https://github.com/quanttide/quanttide-library-of-cognitive-engineering.git
+[submodule "apps/qtcloud-devops"]
+	path = apps/qtcloud-devops
+	url = https://github.com/quanttide/qtcloud-devops.git
