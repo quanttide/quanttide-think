@@ -52,3 +52,9 @@
 [submodule "data/brochure"]
 	path = data/brochure
 	url = https://github.com/quanttide/quanttide-brochure-of-cognitive-engineering.git
+[submodule "data/history"]
+	path = data/history
+	url = https://github.com/quanttide/quanttide-history-of-cognitive-engineering.git
+[submodule "docs/bylaw"]
+	path = docs/bylaw
+	url = https://github.com/quanttide/quanttide-bylaw-of-cognitive-engineering.git
