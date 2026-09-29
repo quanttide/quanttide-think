@@ -7,9 +7,9 @@
 [submodule "apps/qtcloud-think"]
 	path = apps/qtcloud-think
 	url = https://github.com/quanttide/qtcloud-think.git
-[submodule "examples/default"]
-	path = examples/default
-	url = https://github.com/quanttide/quanttide-laboratory-of-cognitive-engineering.git
+[submodule "examples/quanttide-think-lab"]
+	path = examples/quanttide-think-lab
+	url = https://github.com/quanttide/quanttide-think-lab.git
 [submodule "docs/gallery"]
 	path = docs/gallery
 	url = https://github.com/quanttide/quanttide-gallery-of-cognitive-engineering.git

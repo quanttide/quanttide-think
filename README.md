@@ -19,7 +19,7 @@ quanttide-think 是量潮知识管理体系中的认知工程模块，专注于�
 | `apps/qtcloud-think` | 思考云 (git submodule → qtcloud-think) |
 | `packages/quanttide-agent-toolkit` | 智能体工具箱 (git submodule → quanttide-agent-toolkit) |
 | `packages/quanttide-think-toolkit` | 认知工程工具箱 (git submodule → quanttide-think-toolkit) |
-| `examples/default` | 认知工程实验室 (git submodule → quanttide-laboratory-of-cognitive-engineering) |
+| `examples/quanttide-think-lab` | 认知工程实验室 (git submodule → quanttide-think-lab) |
 | `data/context` | 认知工程语境 (git submodule → quanttide-context-of-cognitive-engineering) |
 | `data/journal` | 认知工程日志 (git submodule → quanttide-journal-of-cognitive-engineering) |
 | `data/profile` | 认知工程档案 (git submodule → quanttide-profile-of-cognitive-engineering) |

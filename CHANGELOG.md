@@ -6,6 +6,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [Unreleased]
 
+### 变更
+
+- 实验室子模块改名：`examples/default` → `examples/quanttide-think-lab`（仓 quanttide-laboratory-of-cognitive-engineering → quanttide-think-lab）
+
+
 ### Added
 
 - Registered submodule `data/history`（认知工程历史，quanttide-history-of-cognitive-engineering）
