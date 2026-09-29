@@ -26,7 +26,7 @@ description: 初始化新的代码仓库，包括创建 GitHub 仓库、选择�
 | 应用层 | `qt{app}-think` | `qtcloud-think` |
 | 陈述性记忆（data/） | `quanttide-{name}-of-cognitive-engineering` | `quanttide-context-of-cognitive-engineering` |
 | 程序性记忆（docs/） | `quanttide-{name}-of-cognitive-engineering` | `quanttide-essay-of-cognitive-engineering` |
-| 实验室（examples/） | `quanttide-laboratory-of-cognitive-engineering` | 固定名称 |
+| 实验室（examples/） | `quanttide-think-lab` | 固定名称 |
 
 组织（owner）统一为 `quanttide`。
 

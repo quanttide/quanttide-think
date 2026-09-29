@@ -24,7 +24,7 @@ qtcloud-devops code status
 组件总数: 16
 待处理: 2
   packages/quanttide-agent-toolkit  待提交 (本地有变更)
-  examples/default                  待推送 (领先 1 提交)
+  examples/quanttide-think-lab                  待推送 (领先 1 提交)
 ```
 
 状态含义：
